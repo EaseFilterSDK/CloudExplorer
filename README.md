@@ -3,10 +3,14 @@
 CloudTier Cloud storage explorer
 With the cloud storage explorer, you can seamlessly view and manage your files in different cloud storage providers, you can download or upload your files easily using with intuitive interface as below.
 
+![Cloud Explorer](https://www.easefilter.com/images/CloudExplorer.PNG)
+
 Cloud Storage Gateway
 To connect and manage the cloud storage, we implement a cloud provider class for different cloud providers with below interface, we have implemented all these functionalities for Amazon S3 and Azure Storage with the .NET SDK, you can add more cloud provider code to here.
 
 The Cloud storage tiering was implemented with tiered storage file system filter driver. A file system filter driver intercepts requests targeted at a file system or another file system filter driver. By intercepting the request before it reaches its intended target, the filter driver can extend or replace functionality provided by the original target of the request. 
+
+![Cloud storage tiering](https://www.easefilter.com/images/CloudTiering.png)
 
 CloudTier Cloud Storage Connect is a data storage technique which automatically moves data between high-cost local disk and low-cost remote cloud storage. CloudTier Cloud Storage Connect can help simplify the migration process by providing the transparent file access from the remote storage. Using the cloud as a storage tier, data can first be moved to a ‘warm’ archive tier of higher-performance disk.
 
