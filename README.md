@@ -1,6 +1,7 @@
-﻿# CloudExplorer For Amazon S3, Azure Storage and more...
+# CloudExplorer For Amazon S3, Azure Storage and more...
 
-CloudTier Cloud storage explorer
+[CloudTier Cloud storage explorer](https://www.easefilter.com/Forums_Files/CloudStorageConnect.htm)
+
 With the cloud storage explorer, you can seamlessly view and manage your files in different cloud storage providers, you can download or upload your files easily using with intuitive interface as below.
 
 ![Cloud Explorer](https://www.easefilter.com/images/CloudExplorer.PNG)
